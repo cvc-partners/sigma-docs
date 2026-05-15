@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="130" font-family="sans-serif">
+
+  <!-- Title -->
+  <text x="590" y="22" text-anchor="middle" font-size="13" fill="#444444">CVC target and value-creation driver</text>
+
+  <!-- Bracket: horizontal top line -->
+  <line x1="450" y1="32" x2="730" y2="32" stroke="#7a9abf" stroke-width="1.5"/>
+  <!-- Bracket: left vertical tick -->
+  <line x1="450" y1="32" x2="450" y2="42" stroke="#7a9abf" stroke-width="1.5"/>
+  <!-- Bracket: right vertical tick -->
+  <line x1="730" y1="32" x2="730" y2="42" stroke="#7a9abf" stroke-width="1.5"/>
+  <!-- Bracket: centre tick down -->
+  <line x1="590" y1="32" x2="590" y2="42" stroke="#7a9abf" stroke-width="1.5"/>
+
+  <!-- Segment 1 — #e8eaf0 (lightest) -->
+  <rect x="10"  y="45" width="160" height="44" rx="3" ry="3" fill="#e8eaf0"/>
+  <text x="90"  y="73" text-anchor="middle" font-size="17" font-weight="700" fill="#555555">1</text>
+
+  <!-- Segment 2 — #ffffff with light border feel, use #c5cfe0 lightened -->
+  <rect x="172" y="45" width="160" height="44" rx="3" ry="3" fill="#d0daea"/>
+  <text x="252" y="73" text-anchor="middle" font-size="17" font-weight="700" fill="#555555">2</text>
+
+  <!-- Segment 3 — #c5cfe0 -->
+  <rect x="334" y="45" width="160" height="44" rx="3" ry="3" fill="#c5cfe0"/>
+  <text x="414" y="73" text-anchor="middle" font-size="17" font-weight="700" fill="#555555">3</text>
+
+  <!-- Segment 4 — #7a9abf -->
+  <rect x="496" y="45" width="160" height="44" rx="3" ry="3" fill="#7a9abf"/>
+  <text x="576" y="73" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">4</text>
+
+  <!-- Segment 5 — #3a5070 (darkest) -->
+  <rect x="658" y="45" width="160" height="44" rx="3" ry="3" fill="#3a5070"/>
+  <text x="738" y="73" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">5</text>
+
+  <!-- Labels -->
+  <text x="90"  y="108" text-anchor="middle" font-size="12" fill="#555555">Limited / not started</text>
+  <text x="252" y="108" text-anchor="middle" font-size="12" fill="#555555">Reactive</text>
+  <text x="414" y="108" text-anchor="middle" font-size="12" fill="#555555">Emerging</text>
+  <text x="576" y="108" text-anchor="middle" font-size="12" fill="#555555">Managing</text>
+  <text x="738" y="108" text-anchor="middle" font-size="12" fill="#555555">Leading</text>
+
+</svg>
