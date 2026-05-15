@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+
+  <!-- Calendar body -->
+  <rect x="6" y="12" width="52" height="46" rx="5" ry="5" fill="#e8eaf0" stroke="#1a2e5a" stroke-width="2.5"/>
+
+  <!-- Header bar -->
+  <rect x="6" y="12" width="52" height="16" rx="5" ry="5" fill="#1a2e5a"/>
+  <rect x="6" y="20" width="52" height="8" fill="#1a2e5a"/>
+
+  <!-- Ring left -->
+  <rect x="18" y="6" width="5" height="14" rx="2.5" ry="2.5" fill="#7a9abf"/>
+  <!-- Ring right -->
+  <rect x="41" y="6" width="5" height="14" rx="2.5" ry="2.5" fill="#7a9abf"/>
+
+  <!-- Grid dots — row 1 -->
+  <rect x="14" y="36" width="7" height="7" rx="1.5" fill="#7a9abf"/>
+  <rect x="28" y="36" width="7" height="7" rx="1.5" fill="#7a9abf"/>
+  <rect x="43" y="36" width="7" height="7" rx="1.5" fill="#7a9abf"/>
+
+  <!-- Grid dots — row 2 -->
+  <rect x="14" y="48" width="7" height="7" rx="1.5" fill="#3a5070"/>
+  <rect x="28" y="48" width="7" height="7" rx="1.5" fill="#3a5070"/>
+  <rect x="43" y="48" width="7" height="7" rx="1.5" fill="#c5cfe0"/>
+
+</svg>
